@@ -2,7 +2,7 @@
 
 [Google collab с подготовкой файлов](https://colab.research.google.com/drive/1uEkXd7itNHceU_zcOG2dnvmCNyiRKWnz?usp=sharing)
 
-[Google collab с аннотацией генома](https://colab.research.google.com/drive/1gXa5hh9z-2yUxiIoEiNbFqjiyK_vyieq?usp=sharing)
+[Google collab с аннотацией генома](https://colab.research.google.com/drive/1WygrTkL9C5QGxspmkwPPzw3j0M_wBf8O?usp=sharing)
 
 Предсказано генов всего: 3602
 
